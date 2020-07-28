@@ -1,0 +1,7 @@
+@@include("libs/slick.min.js")
+@@include("libs/jquery.parallax.js")
+@@include("libs/aos.js")
+@@include("template/activeLink.js")
+@@include("template/scrollSlow.js")
+@@include("template/scrollTo.js")
+@@include("template/fixedHeader.js")
